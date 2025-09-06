@@ -1,0 +1,8 @@
+Data Structures and Algorithms (DSA) are fundamental in computer science. 
+A data structure organizes data effectively. Common ones: arrays, linked lists, stacks, queues, trees, graphs. 
+Arrays give fast index access, linked lists give efficient insertion/deletion. 
+Algorithms are step-by-step procedures. Complexity matters: binary search is O(log n), linear search is O(n). 
+Stacks (LIFO) are used for undo and function calls. Queues (FIFO) for scheduling. 
+Trees organize hierarchically, e.g., binary search trees with O(log n) average search. 
+Graphs model relations: BFS explores level by level, DFS goes deep. 
+Choosing the right structure and algorithm ensures efficient problem solving.
