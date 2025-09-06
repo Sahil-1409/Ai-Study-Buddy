@@ -27,7 +27,7 @@ AI Study Buddy is a web app that helps students revise smarter by converting lec
 
 ## 🏫 Purpose
 Made for **CodeZen Innovate Challenge 2025**  
-By **Teena — BTech 1st Year**
+By **Sahil— BTech 1st Year**
 
 ---
 
